@@ -1,4 +1,4 @@
-const CACHE = "doggylog-v1";
+const CACHE = "doggylog-2.4.71";
 const PRECACHE = ["/DoggyLog/", "/DoggyLog/index.html"];
 
 self.addEventListener("install", (e) => {
